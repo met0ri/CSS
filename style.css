@@ -1,0 +1,21 @@
+html {
+  font-family: sans-serif;
+}
+div {
+  width: 200px;
+  border: 1px solid black;
+  padding: 60px 0;
+  height: 50px;
+  border-radius: 20px;
+  background-color: red;
+  text-align: center;
+  color: white;
+  margin: auto;
+  font-size: 1.125em;
+  /* background-image; */
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 1);
+
+
+}
+
+/* Your CSS below here */
